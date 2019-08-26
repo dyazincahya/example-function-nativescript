@@ -3,8 +3,8 @@
 > this is function for copy paste file in nativescript
 
 ### using module
-- (https://github.com/k4ng-fork/nativescript-node-compat)[NSnode]
-- (https://docs.nativescript.org/ns-framework-modules/file-system)[file-system]
+- [NSnode](https://github.com/k4ng-fork/nativescript-node-compat)
+- [file-system](https://docs.nativescript.org/ns-framework-modules/file-system)
 
 
 ### syntax example
