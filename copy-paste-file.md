@@ -7,7 +7,7 @@
 - [file-system](https://docs.nativescript.org/ns-framework-modules/file-system)
 
 
-### syntax example
+### example
 ```javascript
 function execo(filename, from_dir, to_dir){
     // will create new folder if the folder not found
