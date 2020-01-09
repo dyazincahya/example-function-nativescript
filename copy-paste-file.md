@@ -33,3 +33,9 @@ function execo(filename, from_dir, to_dir){
     }
 }
 ```
+
+
+### usage
+```javascript
+execo(filename, from_dir, to_dir)
+```
