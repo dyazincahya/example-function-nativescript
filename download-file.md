@@ -37,7 +37,7 @@ exports.download = function (args) {
 ```
 
 
-### Usage
+### usage
 ```xml
 <Button text="Download" tap="download"/>
 ```
