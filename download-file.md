@@ -35,3 +35,9 @@ exports.download = function (args) {
     });
 };
 ```
+
+
+### Usage
+```xml
+<Button text="Download" tap="download"/>
+```
