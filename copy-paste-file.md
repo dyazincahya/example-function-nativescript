@@ -4,7 +4,7 @@
 
 ### using module
 - [NSnode](https://github.com/k4ng-fork/nativescript-node-compat)
-- [file-system](https://docs.nativescript.org/ns-framework-modules/file-system)
+- [file-system module](https://docs.nativescript.org/ns-framework-modules/file-system)
 
 
 ### example
