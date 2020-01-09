@@ -2,3 +2,4 @@
 
 ### List function
 - [Copy Paste File](https://github.com/dyazincahya/collections-function-for-nativescript/blob/master/copy-paste-file.md)
+- [Download file](https://github.com/dyazincahya/collections-function-for-nativescript/blob/master/download-file.md)
