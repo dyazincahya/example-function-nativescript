@@ -9,7 +9,7 @@
 
 ### example
 ```javascript
-const fs = require('file-system');
+const fs = require('tns-core-modules/file-system');
 const httpModule = require("tns-core-modules/http");
 
 exports.download = function (args) {
