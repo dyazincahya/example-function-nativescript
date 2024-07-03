@@ -1,0 +1,25 @@
+dependencies {
+    implementation 'androidx.multidex:multidex:2.0.1'
+}
+
+android {
+   compileSdkVersion 34
+
+    defaultConfig {
+        multiDexEnabled true
+        minSdkVersion 19
+        //targetSdkVersion 34
+        versionCode 1
+        versionName "1.0.0"
+        generatedDensities = []
+
+    }
+
+    aaptOptions {
+        additionalParameters "--no-version-vectors"
+    }
+
+    compileOptions {
+       targetCompatibility JavaVersion.VERSION_1_8
+    }
+}
