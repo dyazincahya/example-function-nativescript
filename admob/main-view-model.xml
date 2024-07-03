@@ -1,0 +1,21 @@
+<Page 
+  xmlns="http://schemas.nativescript.org/tns.xsd" 
+  xmlns:ui="@nativescript/firebase-admob" 
+  navigatingTo="onNavigatingTo"
+  >
+
+    <ActionBar title="My App" icon="" />
+
+    <StackLayout class="p-20">
+    <ui:BannerAd
+        id="{{ banner.id }}"
+        height="{{ banner.height }}"
+        width="{{ banner.width }}"
+        unitId="{{ banner.unit }}"
+        layoutChanged="{{ banner.onLoad }}" />
+
+        <Label text="Tap the button" class="h1 text-center" />
+        <Button text="TAP" tap="{{ onTap }}" class="-primary" />
+        <Label text="{{ message }}" class="h2 text-center" textWrap="true" />
+    </StackLayout>
+</Page>
